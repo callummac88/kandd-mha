@@ -97,7 +97,9 @@ $injector = new FFInjector();
             <div class="col-md-12">
      <div class="col-md-6">
          <h3>We are a user led organisation whose aims and intentions are to influence how mental health services are developed and delivered in the Deeside area.</h3>
+         <img class="logo-content" src="img/logo.png"/>
          <p>We pride ourselves on providing a safe, supportive, non-judgemental environment.</p>
+
      </div>
     <div class="col-md-6">
         <img class="img-responsive" src="img/home-content.jpg"/>
