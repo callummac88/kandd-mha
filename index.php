@@ -75,7 +75,7 @@ $injector = new FFInjector();
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('img/home-bg.jpg')">
+    <header class="intro-header" style="background-image: url('img/IMG_0573.JPG')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -95,9 +95,14 @@ $injector = new FFInjector();
         <div class="row">
            
             <div class="col-md-12">
-                <center> 
-     <p>We are a user led organisation whose aims and intentions are to influence how mental health services are developed and delivered in the Deeside area.</p>
-   </center>
+     <div class="col-md-6">
+         <h3>We are a user led organisation whose aims and intentions are to influence how mental health services are developed and delivered in the Deeside area.</h3>
+         <p>We pride ourselves on providing a safe, supportive, non-judgemental environment.</p>
+     </div>
+    <div class="col-md-6">
+        <img class="img-responsive" src="img/home-content.jpg"/>
+    </div>
+
             
             </div>
               
