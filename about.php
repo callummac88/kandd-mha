@@ -84,6 +84,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <p>Kincardine & Deeside Mental Health Association’ has been developed over a number of years supporting individuals with their mental health by providing various recovery focused groups and activities. The chosen activities are intended to build social interactions (peer support), improve self-worth, confidence, and independence and improve quality of life!</p>
+                <img class="img-responsive" src="img/cow.png" />
                 <p>We pride ourselves on providing a safe, supportive, non-judgemental environment.</p>
                 <p>Our charity is supported by ‘Aberdeenshire Health and Social Care Partnership’ who currently provide guidance, advice and funding. The majority of committee members are service users of the charity and therefore have a voice in how services are delivered and contribute to the development and direction of our organisation.</p>
                 <p>We welcome contact from people who have experienced difficulties with their mental health, and/or have an interest and wish to support our charity.</p>
